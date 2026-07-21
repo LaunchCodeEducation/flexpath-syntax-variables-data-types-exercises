@@ -30,10 +30,12 @@ function exercise_01() {
   
   */
   // CODE IN THE OPEN LINES BELOW
+  console.log("Hello, World!");
 
   const placeholder = "Delete this line and code here";
 
   // CODE IN THE OPEN LINES ABOVE
+  console.log(placeholder);
 }
 
 function exercise_02() {
@@ -48,6 +50,8 @@ function exercise_02() {
   */
 
   // CODE IN THE OPEN LINES BELOW
+  let myAge = 28;
+  const myName = "Somaia";
 
   const placeholder = "Delete this line and code here";
 
